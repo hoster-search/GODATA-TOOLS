@@ -19,8 +19,11 @@ pip install requests
 # UTILISATION
 
 Ouvrir l'invite de commande 
+
 Entrer le chemin d'acces vers le fichier 
+
 Faire python godata.py
+
 Entrer le mail 
 
 
